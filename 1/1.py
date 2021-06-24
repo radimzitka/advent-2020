@@ -1,6 +1,6 @@
 #    Advent of code 2020    #
 # Author:       Radim Zitka #
-# Task:         1a           #
+# Task:         1            #
 
 input = open("input", "r")
 
