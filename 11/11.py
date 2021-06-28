@@ -2,7 +2,6 @@
 # Author:       Radim Zitka #
 # Task:         11          #
 
-from os import replace
 from copy import copy, deepcopy
 
 input = open("input", "r")    
